@@ -5,4 +5,4 @@ def board_displayer(board):
 
 def user_input (text_request):
     result = input(text_request)
-    return result
+    return result 
