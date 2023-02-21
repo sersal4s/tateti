@@ -1,1 +1,9 @@
-print("Hola tateti")
+def display(row1, row2, row3):
+    print(row1)
+    print(row2)
+    print(row3)
+
+row_01 = [' ',' ',' ']
+row_02 = [' ',' ',' ']
+row_03 = [' ',' ',' ']
+display(row_01, row_02, row_03)
